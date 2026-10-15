@@ -1,0 +1,13 @@
+SSH Authentication Log Sample
+Source: Target Kali Linux lab VM
+Service: OpenSSH
+Port: TCP/22
+
+Oct 09 06:33:51 — Accepted password for kali from 192.168.56.101
+Oct 09 06:36:03 — Accepted publickey for kali from 192.168.56.101
+Oct 11 09:01:01 — SSH server listening on port 22
+Oct 11 09:03:08 — Accepted publickey for kali from 192.168.56.101
+Oct 12 11:19:10 — Accepted publickey for kali from 192.168.56.101
+Oct 13 06:57:36 — Accepted publickey for kali from 192.168.56.101
+
+Note: This is a summarized, manually formatted extract of observed lab logs. Timestamps and events are based on the displayed journal output. It is not a raw journal export.
